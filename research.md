@@ -20,7 +20,7 @@ These algorithms can be applied in shared-memory setting, e.g., reducing memory 
 - **Nabil Abubaker**, M. Ozan Karsavuran and Cevdet Aykanat, "Scaling Stratified Stochastic Gradient Descent for Distributed Matrix Completion", *TechRxiv*. [[DOI](https://doi.org/10.36227/techrxiv.19350536.v1)] [[PDF](/dsgd.pdf)] [[code](https://github.com/nfabubaker/CESSGD)]  
  
 # Journal Articles  
-- **Nabil Abubaker**, M. Ozan Karsavuran and Cevdet Aykanat, "Scalable Unsupervised ML: Latency Hiding in Distributed Sparse Tensor Decomposition", **IEEE Transactions on Parallel and Distributed Systems**, 33(11), 3028 - 3040, 2022. [[DOI](https://doi.org/10.1109/TPDS.2021.3128827)] [[PDF](/tpds_2021_2.pdf)]  
+- **Nabil Abubaker**, M. Ozan Karsavuran and Cevdet Aykanat, "Scalable Unsupervised ML: Latency Hiding in Distributed Sparse Tensor Decomposition", **IEEE Transactions on Parallel and Distributed Systems**, 33(11), 3028 - 3040, 2022. [[DOI](https://doi.org/10.1109/TPDS.2021.3128827)] [[PDF](/tpds_2021_2.pdf)] [[code](https://github.com/nfabubaker/cpd-emb)]  
 - **Nabil Abubaker**, Seher Acer and Cevdet Aykanat, "True Load Balancing for Matricized Tensor Times Khatri-Rao Product", **IEEE Transactions on Parallel and Distributed Systems**, 32 (8), 1974-1986, 2021. [[DOI](https://doi.org/10.1109/TPDS.2021.3053836)] [[PDF](/tpds_2021.pdf)]
 - **Nabil Abubaker**, Kadir Akbudak and Cevdet Aykanat, "Spatiotemporal Graph and Hypergraph Partitioning Models for Sparse Matrix-Vector Multiplication on Many-Core Architectures", **IEEE Transactions on Parallel and Distributed Systems**, 30 (2), 445-458, 2019. [[DOI](https://doi.org/10.1109/TPDS.2018.2864729)] [[PDF](/tpds_2018.pdf)]
 
