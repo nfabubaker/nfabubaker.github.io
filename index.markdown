@@ -12,7 +12,7 @@ layout: home
 
 &nbsp;  
 
-I'm a Postdoctoral fellow at the [SPCL lab][spclwp], ETH Zurich, advised by Prof. [Torsten Hoefler][htorwp]. I obtained my PhD degrees from Bilkent University under the supervision of Prof. [Cevdet Aykanat][aykanatwp]. My research interests include Parallel Algorithms, High performance computing, efficient AI training, and graph/hypergraph partitioning.   
+I'm a Postdoctoral fellow at the [SPCL lab][spclwp], ETH Zurich, advised by Prof. [Torsten Hoefler][htorwp]. I obtained my PhD degree from Bilkent University under the supervision of Prof. [Cevdet Aykanat][aykanatwp]. My research interests include Parallel Algorithms, High performance computing, efficient AI training, and graph/hypergraph partitioning.   
 
 
 [//]: <> Researcher, Engineer  
