@@ -11,12 +11,12 @@ layout: home
 [//]: <> ### **News**: I successfully defended my PhD thesis on July 6th, 2022 [[Slides]](/def_pres.pdf) [[Video]](https://youtu.be/fU5wSwCtX50).  
 
 &nbsp;  
-Researcher, Engineer  
-Parallel & High-Performance Computing  
+[//]: <> Researcher, Engineer  
+[//]: <> Parallel & High-Performance Computing  
 
-------- 
+[//]: <> ------- 
 
-I'm a Postdoctoral fellow at the [SPCL lab][], ETH Zurich, advised by Prof. Torsten Hoefler. I obtained my PhD degrees from Bilkent University under the supervision of Prof. [Cevdet Aykanat][aykanatwp]. My research interests include Parallel Algorithms, High performance computing, efficient AI training, and graph/hypergraph partitioning.   
+I'm a Postdoctoral fellow at the [SPCL lab][spclwp], ETH Zurich, advised by Prof. [Torsten Hoefler][htorwp]. I obtained my PhD degrees from Bilkent University under the supervision of Prof. [Cevdet Aykanat][aykanatwp]. My research interests include Parallel Algorithms, High performance computing, efficient AI training, and graph/hypergraph partitioning.   
 
 
 [//]: <> PhD 2022, MSc 2016 @Bilkent  
