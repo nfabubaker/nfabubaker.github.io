@@ -8,14 +8,16 @@ layout: home
 <img src="images/nabil.jpg" style="width: 200px; height: 200px; object-fit: cover ; border-radius:30%;"/>
 
 
-### **News**: I successfully defended my PhD thesis on July 6th, 2022 [[Slides]](/def_pres.pdf) [[Video]](https://youtu.be/fU5wSwCtX50).  
-&nbsp;  
-
-------- 
+[//]: <> ### **News**: I successfully defended my PhD thesis on July 6th, 2022 [[Slides]](/def_pres.pdf) [[Video]](https://youtu.be/fU5wSwCtX50).  
 
 &nbsp;  
 Researcher, Engineer  
 Parallel & High-Performance Computing  
+
+------- 
+
+I'm a Postdoctoral fellow at the [SPCL lab][], ETH Zurich, advised by Prof. Torsten Hoefler. I obtained my PhD degrees from Bilkent University under the supervision of Prof. [Cevdet Aykanat][aykanatwp]. My research interests include Parallel Algorithms, High performance computing, efficient AI training, and graph/hypergraph partitioning.   
+
 
 [//]: <> PhD 2022, MSc 2016 @Bilkent  
 
@@ -32,3 +34,5 @@ Parallel & High-Performance Computing
 [aykanatwp]: <http://cs.bilkent.edu.tr/~aykanat>
 [bilcswp]: <http://cs.bilkent.edu.tr>
 [najahCEwp]: <http://eng.najah.edu>
+[spclwp]: <http://spcl.inf.ethz.ch>
+[htorwp]: <http://htor.inf.ethz.ch>
