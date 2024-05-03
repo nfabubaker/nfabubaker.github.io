@@ -19,7 +19,7 @@ These algorithms can be applied in shared-memory setting, e.g., reducing memory 
 
 ### Journal Articles
 
-- **Nabil Abubaker**, Orhun Caglayan, M. Ozan Karsavuran and Cevdet Aykanat, "Minimizing Staleness and Communication Overhead in Distributed SGD for Collaborative Filtering", **IEEE Transactions on Computers**, 72 (10), 2925-2937, 2023. [[DOI](https://doi.org/10.1109/TC.2023.3275107)]  
+- **Nabil Abubaker**, Orhun Caglayan, M. Ozan Karsavuran and Cevdet Aykanat, "Minimizing Staleness and Communication Overhead in Distributed SGD for Collaborative Filtering", **IEEE Transactions on Computers**, 72 (10), 2925-2937, 2023. [[DOI](https://doi.org/10.1109/TC.2023.3275107)] [[PDF](/tc_2023.pdf)]  
 - **Nabil Abubaker**, M. Ozan Karsavuran and Cevdet Aykanat, "Scaling Stratified Stochastic Gradient Descent for Distributed Matrix Completion", **IEEE Transactions on Knowledge and Data Engineering**. [[DOI](https://doi.org/10.1109/TKDE.2023.3253791)] [[PDF](/dsgd.pdf)] [[code](https://github.com/nfabubaker/CESSGD)]
 - **Nabil Abubaker**, M. Ozan Karsavuran and Cevdet Aykanat, "Scalable Unsupervised ML: Latency Hiding in Distributed Sparse Tensor Decomposition", **IEEE Transactions on Parallel and Distributed Systems**, 33(11), 3028 - 3040, 2022. [[DOI](https://doi.org/10.1109/TPDS.2021.3128827)] [[PDF](/tpds_2021_2.pdf)] [[code](https://github.com/nfabubaker/cpd-emb)]  
 - **Nabil Abubaker**, Seher Acer and Cevdet Aykanat, "True Load Balancing for Matricized Tensor Times Khatri-Rao Product", **IEEE Transactions on Parallel and Distributed Systems**, 32 (8), 1974-1986, 2021. [[DOI](https://doi.org/10.1109/TPDS.2021.3053836)] [[PDF](/tpds_2021.pdf)]
@@ -30,6 +30,9 @@ These algorithms can be applied in shared-memory setting, e.g., reducing memory 
 - Lukas Gianinazzi, Alexandros Nikolaos Ziogas, Langwen Huang, Piotr Luczynski, Saleh Ashkboosh, Florian Scheidl, Armon Carigiet, Chio Ge, **Nabil Abubaker**, Maciej Besta, Tal Ben-Nun, and Torsten Hoefler, "Arrow Matrix Decomposition: A Novel Approach for Communication-Efficient Sparse Matrix Multiplication", **In Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP '24) 2024**. [[DOI](https://doi.acm.org?doi=3627535.3638496)]   
 - **Nabil Abubaker**, Leonard Dervishi and Erman Ayday,"Privacy-Preserving Fog Computing Paradigm", **IEEE Conference on Communications and Network Security (CNS)** 2017. [[DOI](https://doi.org/10.1109/CNS.2017.8228709)] [[PDF](/privacy_in_fog_paper.pdf)]
  
+
+### Preprints
+- **Nabil Abubaker** and Torsten Hoefler, "SpComm3D: A Framework for Enabling Sparse Communication in 3D Sparse Kernels", ArXiv Preprint, arXiv:2404.19638, 2024. [[DOI](https://doi.org/10.48550/arXiv.2404.19638)] [[Code](https://github.com/nfabubaker/SpComm3D)]  
 
 ### Theses & Projects  
 
