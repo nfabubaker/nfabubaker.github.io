@@ -17,7 +17,7 @@ These algorithms can be applied in shared-memory setting, e.g., reducing memory 
 
 ## Publications  
 
-<sup>First-author ratio: 88%, current Erdős number is 3 </sub>
+<sup>First-author ratio: 88%, current Erdős number is 3</sub>  
 
 ### Preprints
 - **Nabil Abubaker** and Torsten Hoefler, "SpComm3D: A Framework for Enabling Sparse Communication in 3D Sparse Kernels", ArXiv Preprint, arXiv:2404.19638, 2024. [[DOI](https://doi.org/10.48550/arXiv.2404.19638)] [[Code](https://github.com/nfabubaker/SpComm3D)]  
