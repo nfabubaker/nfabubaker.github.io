@@ -17,13 +17,18 @@ These algorithms can be applied in shared-memory setting, e.g., reducing memory 
 
 ## Publications  
 
+<sup>First-author ratio: 88%, current Erdős number is 3 </sub>
+
+### Preprints
+- **Nabil Abubaker** and Torsten Hoefler, "SpComm3D: A Framework for Enabling Sparse Communication in 3D Sparse Kernels", ArXiv Preprint, arXiv:2404.19638, 2024. [[DOI](https://doi.org/10.48550/arXiv.2404.19638)] [[Code](https://github.com/nfabubaker/SpComm3D)]  
+
 ### Journal Articles
 
-- **Nabil Abubaker**, Orhun Caglayan, M. Ozan Karsavuran and Cevdet Aykanat, "Minimizing Staleness and Communication Overhead in Distributed SGD for Collaborative Filtering", **IEEE Transactions on Computers**, 72 (10), 2925-2937, 2023. [[DOI](https://doi.org/10.1109/TC.2023.3275107)] [[PDF](/tc_2023.pdf)]  
-- **Nabil Abubaker**, M. Ozan Karsavuran and Cevdet Aykanat, "Scaling Stratified Stochastic Gradient Descent for Distributed Matrix Completion", **IEEE Transactions on Knowledge and Data Engineering**. [[DOI](https://doi.org/10.1109/TKDE.2023.3253791)] [[PDF](/dsgd.pdf)] [[code](https://github.com/nfabubaker/CESSGD)]
-- **Nabil Abubaker**, M. Ozan Karsavuran and Cevdet Aykanat, "Scalable Unsupervised ML: Latency Hiding in Distributed Sparse Tensor Decomposition", **IEEE Transactions on Parallel and Distributed Systems**, 33(11), 3028 - 3040, 2022. [[DOI](https://doi.org/10.1109/TPDS.2021.3128827)] [[PDF](/tpds_2021_2.pdf)] [[code](https://github.com/nfabubaker/cpd-emb)]  
-- **Nabil Abubaker**, Seher Acer and Cevdet Aykanat, "True Load Balancing for Matricized Tensor Times Khatri-Rao Product", **IEEE Transactions on Parallel and Distributed Systems**, 32 (8), 1974-1986, 2021. [[DOI](https://doi.org/10.1109/TPDS.2021.3053836)] [[PDF](/tpds_2021.pdf)]
-- **Nabil Abubaker**, Kadir Akbudak and Cevdet Aykanat, "Spatiotemporal Graph and Hypergraph Partitioning Models for Sparse Matrix-Vector Multiplication on Many-Core Architectures", **IEEE Transactions on Parallel and Distributed Systems**, 30 (2), 445-458, 2019. [[DOI](https://doi.org/10.1109/TPDS.2018.2864729)] [[PDF](/tpds_2018.pdf)]
+- [ TC ] **Nabil Abubaker**, Orhun Caglayan, M. Ozan Karsavuran and Cevdet Aykanat, "Minimizing Staleness and Communication Overhead in Distributed SGD for Collaborative Filtering", *IEEE Transactions on Computers*, 72 (10), 2925-2937, 2023. [[DOI](https://doi.org/10.1109/TC.2023.3275107)] [[PDF](/tc_2023.pdf)]  
+- [ TKDE ] **Nabil Abubaker**, M. Ozan Karsavuran and Cevdet Aykanat, "Scaling Stratified Stochastic Gradient Descent for Distributed Matrix Completion", *IEEE Transactions on Knowledge and Data Engineering*. [[DOI](https://doi.org/10.1109/TKDE.2023.3253791)] [[PDF](/dsgd.pdf)] [[code](https://github.com/nfabubaker/CESSGD)]
+- [ TPDS ] **Nabil Abubaker**, M. Ozan Karsavuran and Cevdet Aykanat, "Scalable Unsupervised ML: Latency Hiding in Distributed Sparse Tensor Decomposition", *IEEE Transactions on Parallel and Distributed Systems*, 33(11), 3028 - 3040, 2022. [[DOI](https://doi.org/10.1109/TPDS.2021.3128827)] [[PDF](/tpds_2021_2.pdf)] [[code](https://github.com/nfabubaker/cpd-emb)]  
+- [ TPDS ] **Nabil Abubaker**, Seher Acer and Cevdet Aykanat, "True Load Balancing for Matricized Tensor Times Khatri-Rao Product", *IEEE Transactions on Parallel and Distributed Systems*, 32 (8), 1974-1986, 2021. [[DOI](https://doi.org/10.1109/TPDS.2021.3053836)] [[PDF](/tpds_2021.pdf)]
+- [ TPDS ] **Nabil Abubaker**, Kadir Akbudak and Cevdet Aykanat, "Spatiotemporal Graph and Hypergraph Partitioning Models for Sparse Matrix-Vector Multiplication on Many-Core Architectures", *IEEE Transactions on Parallel and Distributed Systems*, 30 (2), 445-458, 2019. [[DOI](https://doi.org/10.1109/TPDS.2018.2864729)] [[PDF](/tpds_2018.pdf)]
 
 ### Conference/Workshop Papers  
 
@@ -31,11 +36,9 @@ These algorithms can be applied in shared-memory setting, e.g., reducing memory 
 - **Nabil Abubaker**, Leonard Dervishi and Erman Ayday,"Privacy-Preserving Fog Computing Paradigm", **IEEE Conference on Communications and Network Security (CNS)** 2017. [[DOI](https://doi.org/10.1109/CNS.2017.8228709)] [[PDF](/privacy_in_fog_paper.pdf)]
  
 
-### Preprints
-- **Nabil Abubaker** and Torsten Hoefler, "SpComm3D: A Framework for Enabling Sparse Communication in 3D Sparse Kernels", ArXiv Preprint, arXiv:2404.19638, 2024. [[DOI](https://doi.org/10.48550/arXiv.2404.19638)] [[Code](https://github.com/nfabubaker/SpComm3D)]  
-
 ### Theses & Projects  
 
+- [Ph.D. Thesis](https://repository.bilkent.edu.tr/items/e2e684c7-35dc-4129-adf5-1ef9ccb260cf)
 - [M.Sc. Thesis](http://repository.bilkent.edu.tr/handle/11693/32211)
 - [B.Sc. Graduation Project #1 (Software)](https://repository.najah.edu/handle/20.500.11888/12256)
 - [B.Sc. Graduation Project #2 (Hardware)](https://repository.najah.edu/handle/20.500.11888/12272)
