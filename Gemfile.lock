@@ -79,6 +79,9 @@ DEPENDENCIES
   tzinfo-data
   wdm (~> 0.1.1)
   webrick (~> 1.7)
+  rexml (~> 3.3.6)
+
+
 
 BUNDLED WITH
    2.2.28
