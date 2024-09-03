@@ -19,6 +19,9 @@ github_link: https://github.com/nfabubaker
 linkedin: https://www.linkedin.com/in/nabil-abubaker-88293167/
 twitter: 
 
+domain: nfabubaker.github.io
+url: "https://nfabubaker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/nabil_2016.jpg
