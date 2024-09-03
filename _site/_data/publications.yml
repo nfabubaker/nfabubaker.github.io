@@ -1,0 +1,61 @@
+main:
+
+  - title: "SpComm3D: A Framework for Enabling Sparse Communication in 3D Sparse Kernels"
+    authors: <strong>Nabil Abubaker</strong>, Torsten Hoefler 
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2404.19638 
+    pdf: https://arxiv.org/pdf/2404.19638
+    code: https://github.com/nfabubaker/SpComm3D
+    image: ./assets/img/spcomm3d_teaser.png
+
+  - title: "Arrow Matrix Decomposition: A Novel Approach for Communication-Efficient Sparse Matrix Multiplication"
+    authors: Lukas Gianinazzi, Alexandros Nikolaos Ziogas, Langwen Huang, Piotr Luczynski, Saleh Ashkboosh, Florian Scheidl, Armon Carigiet, Chio Ge, <strong>Nabil Abubaker</strong>, Maciej Besta, Tal Ben-Nun, Torsten Hoefler 
+    conference_short: PPoPP
+    conference: ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming <strong>(PPoPP)</strong>, 2024.
+    pdf: https://spcl.ethz.ch/Publications/.pdf/gianinazzi-ppopp24-arrow.pdf
+    code: https://github.com/spcl/arrow-matrix
+    image: ./assets/img/teaser_arrow.png
+  
+  - title: "Minimizing staleness and communication overhead in distributed SGD for collaborative filtering"
+    authors: <strong>Nabil Abubaker</strong>, Orhun Caglayan, M Ozan Karsavuran, Cevdet Aykanat 
+    conference_short: TC
+    conference: IEEE Transactions on Computers, 2023. 
+    pdf: ./assets/files/tc_2023.pdf
+    image: ./assets/img/teaser_tc23.png
+  
+  - title: "Scaling stratified stochastic gradient descent for distributed matrix completion"
+    authors: <strong>Nabil Abubaker</strong>, M Ozan Karsavuran, Cevdet Aykanat 
+    conference_short: TKDE
+    conference: IEEE Transactions on Knowledge and Data Engineering, 2023. 
+    pdf: ./assets/files/dsgd.pdf
+    image: ./assets/img/teaser_dsgd.png
+    code: https://github.com/nfabubaker/CESSGD 
+  
+  - title: "Scalable unsupervised ml: Latency hiding in distributed sparse tensor decomposition"
+    authors: <strong>Nabil Abubaker</strong>, M Ozan Karsavuran, Cevdet Aykanat 
+    conference_short: TPDS
+    conference: IEEE Transactions on Parallel and Distributed Systems, 2021. 
+    pdf: ./assets/files/tpds_2021_2.pdf
+    image: ./assets/img/teaser_tpds21_2.png
+    code: https://github.com/nfabubaker/cpd-emb 
+  
+  - title: "True load balancing for matricized tensor times Khatri-Rao product"
+    authors: <strong>Nabil Abubaker</strong>, Seher Acer, Cevdet Aykanat 
+    conference_short: TPDS 
+    conference: IEEE Transactions on Parallel and Distributed Systems, 2021. 
+    pdf: ./assets/files/tpds_2021.pdf
+    image: ./assets/img/teaser_tpds21.png
+  
+  - title: "Spatiotemporal graph and hypergraph partitioning models for sparse matrix-vector multiplication on many-core architectures"
+    authors: <strong>Nabil Abubaker</strong>, Kadir Akbudak, Cevdet Aykanat 
+    conference_short: TPDS 
+    conference: IEEE Transactions on Parallel and Distributed Systems, 2018. 
+    pdf: ./assets/files/tpds_2018.pdf
+    image: ./assets/img/teaser_tpds18.png
+  
+  - title: "Privacy-preserving fog computing paradigm"
+    authors: <strong>Nabil Abubaker</strong>, Leonard Dervishi, Erman Ayday 
+    conference_short: CNS 
+    conference: IEEE Conference on Communications and Network Security (CNS), 2017. 
+    pdf: ./assets/files/privacy.pdf
+    image: ./assets/img/teaser_privacy.png
