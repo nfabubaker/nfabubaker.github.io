@@ -1,4 +1,8 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<br>
+[[Web of Science](https://www.webofscience.com/wos/author/record/1390541)] [[DBLP](https://dblp.org/pid/211/3737.html)] [[ORCID](https://orcid.org/0000-0002-5060-3059)]  
+
+<!-- <sup>First-author ratio: 88%, current Erdős number is 3</sup>  -->
 
 <div class="publications">
 <ol class="bibliography">
