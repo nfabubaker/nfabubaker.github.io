@@ -16,17 +16,17 @@ I'm an [SNSF Postdoctoral Fellow][spfwp] at the [Scalable Parallel Computing Lab
 - **Sparse Tensor Decompositions** 
 - **Graph/Hypergraph partitioning**
 - **Sparse matrix reordering methods**
-- **Machine Learning:** Graph & Hypergraph Neural Networks, Parallel LLMs
+- **Machine Learning:** Graph & Hypergraph Neural Networks, Parallelizing LLMs
 
 ## News
 
 - **[Jun. 2024]** I will attend and speak at the [CERFACS Sparse Days 2024 meeting](https://sparsedays.cerfacs.fr/en/home/) in Toulouse, France.
-- **[May. 2024]** I will be at the [ISC24 conference](https://www.isc-hpc.com/) in Hamburg, Germany!
+- **[May 2024]** I will be at the [ISC24 conference](https://www.isc-hpc.com/) in Hamburg, Germany!
 - **[Apr. 2024]** [SpComm3D paper](https://arxiv.org/abs/2404.19638) is out on arXiv!
 - **[Feb. 2024]** I'm co-organizing a [Non-EU/EFTA Postdoc Career in Switzerland Information Event](https://www.aveth.ethz.ch/event-for-non-eu-efta-postdocs/) on 8th of February at ETH Alumni Pavillon.
 - **[Jun. 2023]** My proposal for the SNSF Swiss Postdoctoral Fellowship is accepted! (along with 70 others out of 500+ applications)
 - **[May 2023]** Moved to Switzerland and started a new position as a PostDoc at the Scalable Parallel Computing Laboratory (SPCL), Department of Computer Science, ETH Zürich.
-- **[Jul. 2022]** I have successfully defended my Ph.D. thesis titled "Novel Algorithms and Models for Scaling Parallel Sparse Tensor and Matrix Factorizations. 🎉
+- **[Jul. 2022]** I have successfully defended my Ph.D. thesis titled "Novel Algorithms and Models for Scaling Parallel Sparse Tensor and Matrix Factorizations". 🎉
 - **[Feb. 2022]** I'm presenting my work on "Sparse Tensor Partitioning for Scalable Distributed CPD-ALS" at [SIAM PP22](https://meetings.siam.org/speakdex.cfm?CONFCODE=PP22).
 
 {% include_relative _includes/publications.md %}
