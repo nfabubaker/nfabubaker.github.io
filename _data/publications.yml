@@ -16,14 +16,14 @@ main:
     code: https://github.com/spcl/arrow-matrix
     image: ./assets/img/teaser_arrow.png
   
-  - title: "Minimizing staleness and communication overhead in distributed SGD for collaborative filtering"
+  - title: "Minimizing Staleness and Communication Overhead in Distributed SGD for Collaborative Filtering"
     authors: <strong>Nabil Abubaker</strong>, Orhun Caglayan, M Ozan Karsavuran, Cevdet Aykanat 
     conference_short: TC
     conference: IEEE Transactions on Computers, 2023. 
     pdf: ./assets/files/tc_2023.pdf
     image: ./assets/img/teaser_tc23.png
   
-  - title: "Scaling stratified stochastic gradient descent for distributed matrix completion"
+  - title: "Scaling Stratified Stochastic Gradient Descent for Distributed Matrix Completion"
     authors: <strong>Nabil Abubaker</strong>, M Ozan Karsavuran, Cevdet Aykanat 
     conference_short: TKDE
     conference: IEEE Transactions on Knowledge and Data Engineering, 2023. 
@@ -31,7 +31,7 @@ main:
     image: ./assets/img/teaser_dsgd.png
     code: https://github.com/nfabubaker/CESSGD 
   
-  - title: "Scalable unsupervised ml: Latency hiding in distributed sparse tensor decomposition"
+  - title: "Scalable Unsupervised ML: Latency Hiding in Distributed Sparse Tensor Decomposition"
     authors: <strong>Nabil Abubaker</strong>, M Ozan Karsavuran, Cevdet Aykanat 
     conference_short: TPDS
     conference: IEEE Transactions on Parallel and Distributed Systems, 2021. 
@@ -39,7 +39,7 @@ main:
     image: ./assets/img/teaser_tpds21_2.png
     code: https://github.com/nfabubaker/cpd-emb 
   
-  - title: "True load balancing for matricized tensor times Khatri-Rao product"
+  - title: "True Load Balancing for Matricized Tensor Times Khatri-Rao Product"
     authors: <strong>Nabil Abubaker</strong>, Seher Acer, Cevdet Aykanat 
     conference_short: TPDS 
     conference: IEEE Transactions on Parallel and Distributed Systems, 2021. 
