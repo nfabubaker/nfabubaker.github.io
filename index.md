@@ -4,7 +4,7 @@ layout: homepage
 
 # Welcome / يا مرحبا
 
-I'm an [SNSF Postdoctoral Fellow][spfwp] at the [Scalable Parallel Computing Laboratory (SPCL)][spclwp], ETH Zürich, advised by Prof. [Torsten Hoefler][htorwp]. I obtained my PhD degree in [Computer Engineering from Bilkent University][bilcswp] under the supervision of Prof. [Cevdet Aykanat][aykanatwp]. In my reasearch, I design **combinatorial algorithms** and methods for reducing data movement overheads in **parallel scientific and machine learning applications** running on HPC systems. These algorithms can be applied in shared-memory setting, e.g., reducing memory accesses or improving data locality, or in distributed-memory setting, e.g., reduce volume of communication and number of exchanged messages.
+I'm an [SNSF Postdoctoral Fellow][spfwp] at the [Scalable Parallel Computing Laboratory (SPCL)][spclwp], ETH Zürich, advised by Prof. [Torsten Hoefler][htorwp]. I'm also an associated researcher with the [ETH AI Center](https://ai.ethz.ch/). I obtained my PhD degree in [Computer Engineering from Bilkent University][bilcswp] under the supervision of Prof. [Cevdet Aykanat][aykanatwp]. In my reasearch, I design **combinatorial algorithms** and methods for reducing data movement overheads in **parallel scientific and machine learning applications** running on HPC systems. These algorithms can be applied in shared-memory setting, e.g., reducing memory accesses or improving data locality, or in distributed-memory setting, e.g., reduce volume of communication and number of exchanged messages.
 
 ## Research Interests
 
